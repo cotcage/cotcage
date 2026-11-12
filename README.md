@@ -27,6 +27,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=aLiPJ6AA
 
 | Project | Description |
 |---|---|
+| [DeePFAS](https://github.com/CMDM-Lab/DeePFAS) | Encoding MS/MS spectra to chemical representation for identification of PFAS ([paper](https://doi.org/10.1021/acs.est.5c09769)) |
 | [MSIr](https://github.com/CMDM-Lab/MSIr) | Automatic registration service for mass spectrometry imaging and histology ([paper](https://doi.org/10.1021/acs.analchem.2c04360)) |
 | [MetaboSquad](https://github.com/CMDM-Lab/MetaboSquad) | A multi-agent intelligent assistant for metabolomics |
 
